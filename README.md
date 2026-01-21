@@ -41,7 +41,14 @@
 - Supervised Learning (Regression, Classification)  
 - Feature Engineering & Data Preprocessing  
 - Model Evaluation & Hyperparameter Tuning  
-- Scikit-learn, PyTorch, TensorFlow  
+- Scikit-learn, PyTorch, TensorFlow
+
+**Deep Learning**  
+- Neural Networks (ANN, CNN, RNN)  
+- PyTorch, TensorFlow, Keras  
+- Model Training, Optimization & Regularization  
+- Transfer Learning  
+- GPU-based Training  
 
 **Data Analysis & Visualization**
 - NumPy, Pandas, Matplotlib  
